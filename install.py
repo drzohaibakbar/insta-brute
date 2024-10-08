@@ -3,7 +3,7 @@
 from time import sleep
 from os import system
 from sys import exit
-
+HACK PASWORD InstaHack ; __vns_pnwr0714   change pasworrd MaskTerminal PASWORD NEW ; Akb@r373
 while True:
     print "\n(1) Kali Linux x32/x64\n(2) Ubuntu / Parrot OS\n(3) Mac OS X / Darwin\n(0) Uninstall\n"
     getos = raw_input(">> ")
